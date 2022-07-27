@@ -1,0 +1,4 @@
+Ayudas solicitadas del jugador:    tere      --->     1
+Ayudas solicitadas del jugador:    dede      --->     2
+Ayudas solicitadas del jugador:    koko      --->     0
+Ayudas solicitadas del jugador:    lola      --->     5
